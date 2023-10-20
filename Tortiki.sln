@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tortiki", "Tortiki\Tortiki.csproj", "{98998602-100D-452B-AB59-DC99054D0B82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98998602-100D-452B-AB59-DC99054D0B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98998602-100D-452B-AB59-DC99054D0B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98998602-100D-452B-AB59-DC99054D0B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98998602-100D-452B-AB59-DC99054D0B82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2520E11-0676-44BA-A53C-792AFA4D7052}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Проекты колледж\\Проекты Visual Studio\\ОАИП\\Tortiki\\Tortiki\\Tortiki.csproj": {}
+  },
+  "projects": {
+    "D:\\Проекты колледж\\Проекты Visual Studio\\ОАИП\\Tortiki\\Tortiki\\Tortiki.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Проекты колледж\\Проекты Visual Studio\\ОАИП\\Tortiki\\Tortiki\\Tortiki.csproj",
+        "projectName": "Tortiki",
+        "projectPath": "D:\\Проекты колледж\\Проекты Visual Studio\\ОАИП\\Tortiki\\Tortiki\\Tortiki.csproj",
+        "packagesPath": "C:\\Users\\Karina\\.nuget\\packages\\",
+        "outputPath": "D:\\Проекты колледж\\Проекты Visual Studio\\ОАИП\\Tortiki\\Tortiki\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Karina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
