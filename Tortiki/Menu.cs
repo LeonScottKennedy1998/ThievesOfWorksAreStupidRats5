@@ -12,7 +12,6 @@ namespace Tortiki
         
         public static int Cursor(int minstr, int maxstr)
         {
-
             
             ConsoleKeyInfo cursor;
             int position = 3;
@@ -46,7 +45,6 @@ namespace Tortiki
 
             } while (cursor.Key != ConsoleKey.Enter);
             return position;
-
 
         }
     }
